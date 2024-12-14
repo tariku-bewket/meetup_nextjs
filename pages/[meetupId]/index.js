@@ -1,3 +1,5 @@
-export default function index() {
-  return <div>index</div>;
+function MeetupDetailPage() {
+  return <h1>Meetup Detail Page</h1>;
 }
+
+export default MeetupDetailPage;
